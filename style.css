@@ -1,0 +1,37 @@
+#mainDiv{width:80%;height:960px;margin:0 auto;}
+.headersection{width:100%;height:85px;background:#2F2D2E;color:#fff;}
+.hlogo{width:20%;height:85px;float:left;}
+.htitle{width:80%;height:85px;float:left;}
+.headersection h2{font-family:AdorshoLipi;padding:10px;font-aline:center}
+.navsection{width:100%;height:40px;margin: 2px;background:#9B999A;}
+.navsection ul{margin:0;padding:0;list-style:none;}
+.navsection ul li {
+	display: block;
+	float: left;
+	padding: 2px;
+	border: 2px solid aliceblue;
+	color: #2F2D2E;
+	background: #FFFFFF;
+	margin: 3px;
+	text-decoration: none;
+	font-size: 17px;
+	border-radius: 4px;
+}
+.navsection ul li a:hover {
+    background-color: yellow;
+}
+.navsection ul li a{}
+.navsection p{}
+.pic{width:100%;height:250px;margin: 2px;}
+.contain{width:100%;height:530px;}
+.ma{background: #d9d9d9;margin: 5px 5px 5px 0px;width: 32.5%;height: 530px;float: left;}
+.ma h3{padding:10px;}
+.ma p{padding:10px;}
+.mb{background: #adcde4;margin: 6px;width: 32.5%;height: 530px;border: 5px;float: left;}
+.mb h3{padding:10px;}
+.mb p{padding:10px;}
+.mc{background: #d9d9d9;margin: 5px 0px 5px 5px;width: 32.5%;height: 530px;float: right;}
+.mc h3{padding:10px;background: #2F2D2E;color: #FFFFFF;margin: 10px;color: #fff; border-bottom: 2px solid #fff;}
+.mc p{padding:10px;}
+.footer{width:100%;height:55px;margin:5px 0px 0px 0px;background:#555555}
+.footer p{padding:10px;}
